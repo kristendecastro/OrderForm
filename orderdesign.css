@@ -1,0 +1,69 @@
+@import url(https://fonts.googleapis.com/css?family=Cabin+Sketch:700|Patrick+Hand+SC|Waiting+for+the+Sunrise);
+body{
+  font-family:Patrick Hand SC;
+  font-size:25px;
+  background-image:url('https://gdocservices.com/wp-content/uploads/2020/06/AdobeStock_164991966.jpeg');
+  background-size:cover;
+}
+h1{
+  font-family:Cabin Sketch;
+  font-size:80px;
+  color: #ed7777;
+}
+h2{
+  font-family:Cabin Sketch;
+  font-size:40px;
+  color: #f5f9ad;
+}
+form{
+  background-image:url("https://howtonestforless.com/wp-content/uploads/2013/01/Chalkboard-background.jpg");
+  color:white;
+  border-radius:5px;
+  height:auto;
+  width:600px;
+}
+#wrapper{
+  margin-top:-50px;
+ float:center;
+}
+input{
+  font-family:Patrick Hand sc;
+  font-size:17px;
+  font-weight:bold;
+}
+input[type=checkbox] {
+  accent-color: #f5f9ad;
+}
+input[type=radio] {
+  accent-color:#ed7777;
+}
+input[type=checkbox] {
+  accent-color: #f5f9ad;
+}
+
+
+#select-container {
+  height: 40px;
+  position: relative;
+  width: 200px;
+}
+
+#dropdown {
+  font-size:20px;
+  font-family:Patrick Hand sc;
+  border-radius: 5px;
+  background-color: #ed7777;
+  color: #ffffff;
+  cursor: pointer;
+  height: 100%;
+  outline: none;
+  padding: 0 0 0 20px;
+  width: 100%;
+}
+#dropdown option {
+  font-size:20px;
+  font-family:Patrick Hand sc;
+  background: #ed7777;
+  color: #ffffff;
+}
+
